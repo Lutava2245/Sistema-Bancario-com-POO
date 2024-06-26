@@ -308,12 +308,6 @@ while operacao != 0:
     elif operacao == 5:
         criar_conta()
 
-    elif operacao == 6:
-        for pessoa in clientes:
-            print(pessoa)
-            for conta in pessoa.contas:
-                print(conta.saldo())
-
     elif operacao == 0:
         print("Obrigado por usar o programa!")
 
