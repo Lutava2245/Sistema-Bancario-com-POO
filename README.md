@@ -1,3 +1,3 @@
 # Sistema-Bancario-com-POO
 
-Versão mais complexa do sistema bancário com criações de contas utilizando classes
+Pequeno projeto simulando um sistema bancário utilizando Python para aplicar os conceitos de POO na prática
